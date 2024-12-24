@@ -109,6 +109,9 @@ function add_field(root) {
                     check_mods[i].parentElement.removeChild(check_mods[i]);
                 } catch(e) {}
             }
+
+            evt.target.parentElement.parentElement.removeChild(evt.target.parentElement);
+
             recalculate();
             return;
         }

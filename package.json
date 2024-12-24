@@ -1,7 +1,7 @@
 {
   "name": "org.jamesmilne.timecalc",
   "displayName": "TimeCalc",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A calculator for joining time periods.",
   "main": "index.js",
   "scripts": {

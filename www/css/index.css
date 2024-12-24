@@ -25,10 +25,12 @@ input, select {
 }
 
 @media (min-width: 40em) {
-    .row { width: 100%; display: table; table-layout: fixed; }
+    .row { width: 100%; display: table; table-layout: fixed;}
     .col { display: table-cell; }
 }
 
 @media (max-width: 40em) {
     .legend { display: none; }
+    .col { padding-bottom: 0.5em; }
+    .row { padding-bottom: 1em; }
 }
