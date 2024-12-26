@@ -8,4 +8,4 @@ A simple calculator for time durations for Android.
 
 Released under Apache 2.0.
 
-Uses [Cordova](https://cordova.apache.org/], also Apache 2.0.
+Uses [Cordova](https://cordova.apache.org/), also Apache 2.0.
