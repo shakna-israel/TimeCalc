@@ -1,5 +1,6 @@
 body {
     text-align: right;
+    font-size: 1.2em;
 }
 
 button {
@@ -13,6 +14,7 @@ input, select {
     margin: 0 auto;
     max-width: 100%;
     min-width: 90%;
+    font-size: 1.2em;
 }
 
 .result {
